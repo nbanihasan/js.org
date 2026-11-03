@@ -353,6 +353,7 @@ var cnames_active = {
   "be": "davidep87.github.io/bejs.github.io",
   "beaga": "beagajs.github.io/beaga",
   "beamwind": "kenoxa.github.io/beamwind",
+  "beamwise": "nbanihasan.github.io/beamwise",
   "bear": "bearplan.github.io/VitePress.BearPlan",
   "beatzoid": "beatzoid.github.io",
   "bedstack": "cname.vercel-dns.com", // noCF
